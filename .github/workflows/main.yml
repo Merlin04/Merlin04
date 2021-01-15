@@ -1,6 +1,4 @@
-on:
-  schedule:
-    - cron: "*/20 * * * *"
+on: [push]
 
 jobs:
   update_readme_job:
