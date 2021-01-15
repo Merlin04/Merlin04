@@ -1,0 +1,19 @@
+on:
+- push
+- schedule:
+    - cron: "*/20 * * * *"
+
+jobs:
+  update_readme_job:
+    runs-on: ubuntu-latest
+    name: Update README
+    steps:
+    - name: Update README
+      id: github-contentful-readme
+      uses: Merlin04/github-contentful-readme@v0.0.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        header: "github-header"
+        subhead: "github-subheader"
+        footer: "github-footer"
