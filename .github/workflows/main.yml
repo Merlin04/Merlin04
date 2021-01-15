@@ -1,6 +1,5 @@
 on:
-- push
-- schedule:
+  schedule:
     - cron: "*/20 * * * *"
 
 jobs:
