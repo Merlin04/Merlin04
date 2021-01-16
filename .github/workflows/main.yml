@@ -14,5 +14,7 @@ jobs:
         headerKey: "github-header"
         subheaderKey: "github-subheader"
         footerKey: "github-footer"
+        setOfProjectsCollectionId: "benjaminsmith.dev"
+        urlKey: "Website URL"
         contentfulAccessToken: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
         contentfulSpaceId: ${{ secrets.CONTENTFUL_SPACE_ID }}
