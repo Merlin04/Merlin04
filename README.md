@@ -3,6 +3,7 @@
 
 ### Full stack developer
 
+<table><tr><td><a href="https://benjaminsmith.dev"><img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/link-24px.svg">Go to website</a></td></tr></table>
 
 <table align="left"><tr><td width="400px">
    <h3><a href="https://benjaminsmith.dev">benjaminsmith.dev</a><a href="https://github.com/merlin04/benjaminsmith.dev"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
