@@ -1,8 +1,8 @@
 
-#github-header
+# Benjamin Smith
 
-##github-subheader
+## Full stack developer
 
 
-github-footer
+Powered by [github-contentful-readme](https://github.com/Merlin04/github-contentful-readme)
     
