@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Update README
       id: github-contentful-readme
-      uses: Merlin04/github-contentful-readme@v0.0.18
+      uses: Merlin04/github-contentful-readme@v0.0.19
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
@@ -16,5 +16,6 @@ jobs:
         footerKey: "github-footer"
         setOfProjectsCollectionId: "benjaminsmith.dev"
         urlKey: "Website URL"
+        projectsLimit: 4
         contentfulAccessToken: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
         contentfulSpaceId: ${{ secrets.CONTENTFUL_SPACE_ID }}
