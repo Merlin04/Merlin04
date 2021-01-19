@@ -1,4 +1,10 @@
-on: [push]
+on:
+  schedule:
+  - cron: "*/10 * * * *"
+  push:
+    branches:
+      - main 
+  workflow_dispatch:
 
 jobs:
   update_readme_job:
