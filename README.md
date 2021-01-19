@@ -3,7 +3,7 @@
 
 ### Full stack developer
 
-<img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/business-24px.svg">Engineering Intern at&nbsp;
+<img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/business-24px.svg">Engineering Intern at
 <a href="https://kernellabs.io">Kernel Labs</a>
 
 <table><tr><td><a href="https://benjaminsmith.dev"><img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/link-24px.svg">Go to website</a></td></tr></table>
@@ -21,7 +21,7 @@
 <td valign="top" width="400px"><h3><a href="https://showcase.codeday.org/project/ckiay9qjn894410rv5v0oh3sf">Multipad</a><a href="https://github.com/merlin04/multipad"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
         <p>Notepad for the future - a swiss army knife file editor/viewer. Won "Best App" at Virtual CodeDay 2020</p>
         <img src="https://images.ctfassets.net/d4vc57z4o8dm/3kAlHE7G5LxsxWXpRB8EMc/753689f7163019c3842b37295b77697a/pe9u8s8og5t1dfw1rq2u6k8td61tvm3axwkjwpjyhrrk6xaevg3mexqbuaowm3w3oe.webp?h=600&q=50&fm=webp" width="300px"></td>
-<td valign="top" width="400px"><h3><a href="https://github.com/Merlin04/KeyboardCardEvent2020/tree/master/submissions/merlin04">PCB business card</a><a href="null"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
+<td valign="top" width="400px"><h3><a href="https://github.com/Merlin04/KeyboardCardEvent2020/tree/master/submissions/merlin04">PCB business card</a></h3>
         <p>PCB business card with mechanical switches that can play games</p>
         </td>
 </tr>
