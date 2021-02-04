@@ -12,7 +12,7 @@
 <tr>
 <td valign="top" width="400px"><h3><a href="https://benjaminsmith.dev">benjaminsmith.dev</a><a href="https://github.com/merlin04/benjaminsmith.dev"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
         <p>My personal website to document my projects and experience</p>
-        <img src="https://images.ctfassets.net/d4vc57z4o8dm/6P2cxWgixo3EVbOoJE7Mzv/1b2493a29d6bb4b561bbd63e7969a4fd/benjaminsmith.dev-thumbnail.png?h=600&q=50&fm=webp"></td>
+        <img src="https://images.ctfassets.net/d4vc57z4o8dm/3WuiWaURARs8Nawln8yNWo/028de30aa350fc8debf2539a9d799267/benjaminsmith.dev_screenshot.png?h=600&q=50&fm=webp"></td>
 <td valign="top" width="400px"><h3><a href="https://studio.kobra.dev">Kobra</a><a href="https://github.com/kobra-dev"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
         <p>Visual programming language for machine learning</p>
         <img src="https://images.ctfassets.net/d4vc57z4o8dm/2zeM7z6qDaQclFRn0gzEJH/a0a91245a536477ae887c0386392c190/discord-logo.png?h=600&q=50&fm=webp" width="300px"></td>
