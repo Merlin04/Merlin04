@@ -20,7 +20,7 @@
 <tr>
 <td valign="top" width="400px"><h3><a href="https://studio.kobra.dev">Kobra</a><a href="https://github.com/kobra-dev"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
         <p>Visual programming language for machine learning</p>
-        <img src="https://images.ctfassets.net/d4vc57z4o8dm/2zeM7z6qDaQclFRn0gzEJH/1f0bfa67b74ebfa118aa19bd2118224d/kobra-icon-large.png?h=600&q=50&fm=webp" width="300.28818443804033px"></td>
+        <img src="https://images.ctfassets.net/d4vc57z4o8dm/5udgQo4HTp5GV2O870OJS0/ffafb3e91e613e5fbf2d05d30075aca6/Screenshot_2021-04-18_Linear_Regression_Kobra_Studio_1_.png?h=600&q=50&fm=webp"></td>
 <td valign="top" width="400px"><h3>github-contentful-readme<a href="https://github.com/Merlin04/github-contentful-readme"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
         <p>Update your profile readme with data from the Contentful headless CMS</p>
         <img src="https://images.ctfassets.net/d4vc57z4o8dm/4dHLByakPG7VlQqTZ1h7GS/98d7f40ddbf56a569919f05c997f739e/image.png?h=600&q=50&fm=webp"></td>
