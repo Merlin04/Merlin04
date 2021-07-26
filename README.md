@@ -18,12 +18,12 @@
         <img src="https://images.ctfassets.net/d4vc57z4o8dm/3WuiWaURARs8Nawln8yNWo/028de30aa350fc8debf2539a9d799267/benjaminsmith.dev_screenshot.png?h=600&q=50&fm=webp"></td>
 </tr>
 <tr>
-<td valign="top" width="400px"><h3><a href="https://doggo.ninja/MS1wUa.zip">Gergoplex tenting stand</a></h3>
-        <p>A 3D printed stand to make typing on a Gergoplex keyboard more ergonomic</p>
-        <img src="https://images.ctfassets.net/d4vc57z4o8dm/7aM1MVVmUWYLU0wARrlnf7/ff0fa4f6be94586bce54c0b9e31cf477/PXL_20210403_211945348.jpg?h=600&q=50&fm=webp"></td>
-<td valign="top" width="400px"><h3>github-contentful-readme<a href="https://github.com/Merlin04/github-contentful-readme"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
-        <p>Update your profile readme with data from the Contentful headless CMS</p>
-        <img src="https://images.ctfassets.net/d4vc57z4o8dm/4dHLByakPG7VlQqTZ1h7GS/98d7f40ddbf56a569919f05c997f739e/image.png?h=600&q=50&fm=webp"></td>
+<td valign="top" width="400px"><h3>ZAuth<a href="https://github.com/Merlin04/zauth"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
+        <p>An authentication API (JWT) that uses local Unix account credentials </p>
+        <img src="https://images.ctfassets.net/d4vc57z4o8dm/3qkXdC5CVvTWrQ6p2iNylT/5bceb0ccbf8c90c4ae1681bcda913376/zauth-screenshot.png?h=600&q=50&fm=webp"></td>
+<td valign="top" width="400px"><h3>VDrop<a href="https://github.com/Merlin04/vdrop"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
+        <p>Community-powered super-short daily video drops </p>
+        <img src="https://images.ctfassets.net/d4vc57z4o8dm/4usB1WeyWe6y1y38EjgDJC/aeb65b6e905ae43f9b60facc89a02162/screenshot.png?h=600&q=50&fm=webp"></td>
 </tr>
 </table>
 
