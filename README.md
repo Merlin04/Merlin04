@@ -13,7 +13,7 @@
 <td valign="top" width="400px"><h3><a href="https://kobra.dev">Kobra</a><a href="https://github.com/kobra-dev"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
         <p>Visual programming language for machine learning</p>
         <img src="https://images.ctfassets.net/d4vc57z4o8dm/5udgQo4HTp5GV2O870OJS0/ffafb3e91e613e5fbf2d05d30075aca6/Screenshot_2021-04-18_Linear_Regression_Kobra_Studio_1_.png?h=600&q=50&fm=webp"></td>
-<td valign="top" width="400px"><h3><a href="https://aus-crest.vercel.app/stacked.png?agency=Department%20of%20Porting%20Things%20to%20TypeScript&height=600">Australian Government crest branding API TypeScript port</a><a href="https://github.com/Merlin04/crest-branding"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
+<td valign="top" width="400px"><h3><a href="https://aus-crest.vercel.app/stacked.png?agency=Department%20of%20Porting%20Things%20to%20TypeScript&height=600">Australian Government crest API</a><a href="https://github.com/Merlin04/crest-branding"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
         <p> TypeScript port of the Australian Government's logo generator API</p>
         <img src="https://images.ctfassets.net/d4vc57z4o8dm/2VkP3MGvO5vlBeVHYmwbHy/22ba679aa565897512936f212af3f0d4/stacked.png?h=600&q=50&fm=webp"></td>
 </tr>
