@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: Update README
       id: github-contentful-readme
-      uses: Merlin04/github-contentful-readme@v0.0.30
+      uses: Merlin04/github-contentful-readme@v0.0.31
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
