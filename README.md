@@ -3,11 +3,12 @@
 
 ### Full stack developer
 
-<img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/business-24px.svg">Teaching Assistant - CodeDay Labs at
-<a href="https://codeday.org">CodeDay</a>
+<img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/business-24px.svg">Co-Founder/Developer at
+<a href="https://kobra.dev">Kobra</a>
 
 <table><tr><td><a href="https://benjaminsmith.dev"><img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/link-24px.svg">Go to website</a></td></tr></table>
 
+### Featured projects
 <table>
 <tr>
 <td valign="top" width="400px"><h3><a href="https://kobra.dev">Kobra</a><a href="https://github.com/kobra-dev"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
