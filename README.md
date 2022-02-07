@@ -22,9 +22,9 @@
 <td valign="top" width="400px"><h3><a href="https://reflection-editor.vercel.app">Reflection editor</a><a href="https://github.com/Merlin04/reflection"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
         <p>A self-hosting web code editor (for Hack Club CodeJelly) </p>
         <img src="https://images.ctfassets.net/d4vc57z4o8dm/6j2szDfuQ5pBGFW3ghTlIW/c67da73e7b53b9dd0b126e432ede9eb9/screenshot.png?h=600&q=50&fm=webp"></td>
-<td valign="top" width="400px"><h3><a href="https://aus-crest.vercel.app/stacked.png?agency=Department%20of%20Porting%20Things%20to%20TypeScript&height=600">Australian Government crest API</a><a href="https://github.com/Merlin04/crest-branding"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
-        <p> TypeScript port of the Australian Government's logo generator API</p>
-        <img src="https://images.ctfassets.net/d4vc57z4o8dm/2VkP3MGvO5vlBeVHYmwbHy/22ba679aa565897512936f212af3f0d4/stacked.png?h=600&q=50&fm=webp"></td>
+<td valign="top" width="400px"><h3><a href="https://www.npmjs.com/package/niue">Niue</a><a href="https://github.com/Merlin04/niue"><img align="right" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/github-24px.svg"></a></h3>
+        <p>A tiny shared state and event library for React</p>
+        <img src="https://images.ctfassets.net/d4vc57z4o8dm/2uUJtXqZrSVW2ZxY3jUeH0/4111aba64f3696f57ee6de558a728586/niue.png?h=600&q=50&fm=webp"></td>
 </tr>
 </table>
 
