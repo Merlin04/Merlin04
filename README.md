@@ -3,7 +3,7 @@
 
 ### Full stack developer
 
-<img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/business-24px.svg">Intern at
+<img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/business-24px.svg">Web Developer at
 <a href="https://itsgigantic.com">Gigantic</a>
 
 <table><tr><td><a href="https://benjaminsmith.dev"><img align="left" src="https://raw.githubusercontent.com/Merlin04/github-contentful-readme/main/link-24px.svg">Go to website</a></td></tr></table>
