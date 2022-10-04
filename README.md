@@ -1,5 +1,5 @@
 
-# Benjamin Smith
+# B Smith
 
 ### Full stack developer
 
